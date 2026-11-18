@@ -7,3 +7,6 @@ openpyxl
 requests
 cryptography
 plotly
+reportlab
+python-pptx
+kaleido
