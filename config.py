@@ -262,7 +262,7 @@ NBE_PALETTE = [NBE_GREEN, NBE_ORANGE, NBE_DARK_GREEN, "#2E8B57", "#F6A64B", "#73
 
 # External documentation links
 DOCS_ENABLED = True
-DOCS_BASE_URL = "https://ahmed01hashem.github.io/nbe-alm-simulation/"
+DOCS_BASE_URL = ""
 
 PAGE_DOCS = {
     "Dashboard": "",
