@@ -219,7 +219,7 @@ OLLAMA_TIMEOUT = int(os.getenv("OLLAMA_TIMEOUT", "600"))
 OLLAMA_TEMPERATURE = float(os.getenv("OLLAMA_TEMPERATURE", "0.0"))
 
 # Online AI (Google Gemini API)
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AQ.Ab8RN6Knxx5FtyHZ_ndMVv5VDsAoyDFCVoLs7A1OzlqTxMF7PQ")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
 GEMINI_API_URL = os.getenv("GEMINI_API_URL", "https://generativelanguage.googleapis.com/v1beta/models")
 GEMINI_TIMEOUT = int(os.getenv("GEMINI_TIMEOUT", "600"))
